@@ -1,0 +1,20 @@
+# Secrets
+.env
+scripts/config/google_credentials.json
+scripts/config/google_token.json
+scripts/config/gmail_token.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node
+web/node_modules/
+web/dist/
+
+# Runtime
+scripts/seen_jobs/seen.json
+scripts/logs/
+.DS_Store
