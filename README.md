@@ -23,7 +23,7 @@ AI Job Hunter is an agent swarm that hunts for jobs on your behalf:
 ## Two Ways to Use It
 
 ### 🌐 Option A — Web App (no coding, runs in browser)
-Use the hosted version at **[jobhunter.vercel.app](https://jobhunter.vercel.app)**
+Use the hosted version at **[ai-job-hunter-eight.vercel.app](https://ai-job-hunter-eight.vercel.app)**
 
 - Enter your Anthropic API key
 - Fill in your profile
