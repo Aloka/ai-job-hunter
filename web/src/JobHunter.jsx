@@ -289,7 +289,7 @@ If fewer than 2 real jobs found, return: []`;
         {/* Footer */}
         <div style={{ marginTop: "60px", paddingTop: "20px", borderTop: "1px solid rgba(255,255,255,0.05)", display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: "8px" }}>
           <span style={{ fontFamily: "'Space Mono',monospace", fontSize: "10px", color: "#2a2a2a" }}>AI JOB HUNTER · OPEN SOURCE</span>
-          <a href="https://github.com/YOUR_USERNAME/ai-job-hunter" target="_blank" rel="noopener noreferrer" style={{ fontFamily: "'Space Mono',monospace", fontSize: "10px", color: "#2a2a2a", textDecoration: "none" }}>⭐ GITHUB</a>
+          <a href="https://github.com/aloka/ai-job-hunter" target="_blank" rel="noopener noreferrer" style={{ fontFamily: "'Space Mono',monospace", fontSize: "10px", color: "#2a2a2a", textDecoration: "none" }}>⭐ GITHUB</a>
         </div>
       </div>
     </div>
