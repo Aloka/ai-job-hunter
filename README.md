@@ -51,7 +51,7 @@ Clone this repo and run the Python scripts for daily automated alerts.
 ### Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-job-hunter
+git clone https://github.com/aloka/ai-job-hunter
 cd ai-job-hunter/scripts
 
 python3 -m venv venv
